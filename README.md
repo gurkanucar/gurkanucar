@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3600&pause=500&color=FFC43D&width=435&lines=Hi+there%2C+This+is+Gurkan%F0%9F%91%8B" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4600&pause=2500&color=FFC43D&width=435&lines=Hi+there%2C+This+is+Gurkan+%F0%9F%91%8B" alt="Typing SVG" /></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gurkanucar&show_icons=true&theme=gruvbox)
 
