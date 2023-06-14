@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4600&pause=2500&color=FFC43D&width=435&lines=Hi+there%2C+This+is+Gurkan+%F0%9F%91%8B" alt="Typing SVG" /></a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gurkanucar&show_icons=true&theme=gruvbox)
+![Gurkan's GitHub stats](https://github-readme-stats.vercel.app/api?username=gurkanucar&show_icons=true&theme=gruvbox&rank_icon=github)
 
 
 <!--![gurkanucar's github stats](https://github-readme-stats.vercel.app/api?username=gurkanucar&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)-->
@@ -34,7 +34,7 @@
 <!-- https://github.com/tandpfun/skill-icons -->
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,spring,mysql,mongodb,postgres,docker,redis,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,spring,react,mysql,mongodb,postgres,docker,redis,rabbitmq,kafka)](https://skillicons.dev)
 
 </div>
   
